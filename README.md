@@ -1,5 +1,6 @@
 # Marianopolis Badminton Club Website
-[Click here to visit the site](https://maribadmintonclub.github.io)
+[Click here](https://maribadmintonclub.github.io) to visit the site.
+
 Made by [@SoloUnity](https://github.com/SoloUnity)
 
 
